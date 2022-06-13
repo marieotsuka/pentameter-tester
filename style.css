@@ -7,7 +7,7 @@
 :root{
   --wght: 400;
   --wdth: 80;
-  --slnt: 50;
+  --slnt: -8;
   --ss01: 0;
   --ss03: 1;
 }
@@ -83,7 +83,7 @@ footer{
   margin-top: 1em;
   --wdth: 100;
   --wght: 500;
-  --slnt: 0;        
+  --slnt: -8;        
 }
 #sliders ul li{
   list-style-type: none;
