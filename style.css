@@ -83,7 +83,7 @@ footer{
   margin-top: 1em;
   --wdth: 100;
   --wght: 500;
-  --slnt: -8;        
+  --slnt: 0;        
 }
 #sliders ul li{
   list-style-type: none;
